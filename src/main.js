@@ -15,7 +15,7 @@ app.use(vuetify)
     .use(store)
     .use(VueGoogleMaps, {
       load: {
-        key: 'AIzaSyCoKbAKr4ScBQUFJXlZgrKviKV6hJdnAWo',
+        key: 'AIzaSyCoKbAKr4ScBQUFiKV6hJdnAWo',
         libraries: ['places','visualization'],
       }
     })
